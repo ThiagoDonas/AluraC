@@ -54,7 +54,7 @@ void escolhepalavra(){
 int main(){
     
     int acertou = 0;
-    int enforcou = 1;
+    int enforcou = 0;
     
     escolhepalavra();
     abertura();
